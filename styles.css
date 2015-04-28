@@ -34,15 +34,6 @@
 	margin-top:0px;
 }
 
-#upShotNamePlate {
-  float: left;
-  display: block;
-  margin-bottom: 0px;
-  margin-left: 200px;
-  margin-right: 0px;
-  margin-top: 15px;
-  width: 100%;
-}
 
 #titleLineBreak {
   float: left;
@@ -134,4 +125,16 @@
   -webkit-font-smoothing: antialiased;
 }
 
+#upShotNamePlate {
+  display: inline-block;
+  height: 52px;
+  width: 315px;
+  text-indent: -9999px;
+  margin: 20px 0 20px;
+  background: url("http://graphics8.nytimes.com/packages/images/nytint/projects/upshot/logo_sf.png") no-repeat;
+  background-size: contain;
+}
 
+
+
+ 
