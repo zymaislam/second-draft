@@ -26,6 +26,9 @@
   margin-right: 0px;
   margin-top: 25px;
   width: 80%;
+
+  font-family: "nyt-franklin",arial,helvetica,sans-serif;
+ 
 }
 
 .chartArea {
@@ -148,7 +151,7 @@
   width: 80%;
 }
 
-.story-body-text {
+.storyBody {
   font-size: 16px;
   font-size: 1rem;
   line-height: 23px;
