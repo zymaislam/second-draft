@@ -35,7 +35,7 @@
 }
 
 
-#titleLineBreak {
+.titleLineBreak {
   float: left;
   display: block;
   height: 1px;
@@ -136,5 +136,24 @@
 }
 
 
+#mastheadLineBreak {
+  display: block;
+  float: left;
+  height: 1px;
+  background: #000000;
+  margin-bottom: 0px;
+  margin-left: 200px;
+  margin-right: 0px;
+  margin-top: 10px;
+  width: 80%;
+}
 
+.story-body-text {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 23px;
+  line-height: 1.4375rem;
+  font-weight: 400;
+  font-family: georgia,"times new roman",times,serif;
+}
  
