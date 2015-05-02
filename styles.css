@@ -33,7 +33,7 @@
 
 .chartArea {
 	width: 1000px; 
-	height: 1000px;
+	height: 1500px;
 	margin-top:0px;
 }
 
@@ -161,5 +161,11 @@
   width: 532px;
   margin-left: 135px;
 }
+
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
 }
- 
